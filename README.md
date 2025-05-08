@@ -28,13 +28,8 @@ Para poder usar el token, debes agregarlo a tus variables de entorno. Puedes hac
     `AZURE_KEY=pon-tu-token-aqui`
 
 ### 📦 Configuración de las dependencias en `pom.xml`
-Además de las dependencias comunes, agrega las siguientes:
+Además de las dependencias comunes, agrega la siguiente:
 ```xml
-<dependency>  
-	<groupId>org.springframework.boot</groupId>  
-	<artifactId>spring-boot-starter-web</artifactId>  
-</dependency>  
-  
 <dependency>  
 	<groupId>com.azure</groupId>  
 	<artifactId>azure-ai-inference</artifactId>  
