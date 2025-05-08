@@ -54,4 +54,4 @@ Aquí tienes un ejemplo para probarlo desde **Postman**:
 	 "model": "openai/gpt-4.1-nano",
 	 "prompt": "¿Qué es una estrella?"
 }
-``
+```
